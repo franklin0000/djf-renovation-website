@@ -1,0 +1,11 @@
+# Dependencies and caches
+node_modules/
+.wrangler/
+*.log
+
+# Large temporary capture files
+screen.png
+
+# OS metadata
+.DS_Store
+Thumbs.db
