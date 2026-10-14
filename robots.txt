@@ -1,0 +1,8 @@
+# Robots.txt for DJF Renovation LTD
+# Allow full crawling for all legitimate search engines
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://djfrenovation.com/sitemap.xml
+Sitemap: https://www.djfrenovation.ca/sitemap.xml
